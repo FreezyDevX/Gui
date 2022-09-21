@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/FreezyDevX/Gui/blob/main/Main%20Gui"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FreezyDevX/Gui/main/Main%20Gui", true))()
